@@ -1,0 +1,17 @@
+# PyTorch / Data
+data/
+__pycache__/
+*.pyc
+
+# Local Config
+.vscode/
+.idea/
+
+# Environment
+env/
+venv/
+.env/
+
+# System
+.DS_Store
+Thumbs.db
